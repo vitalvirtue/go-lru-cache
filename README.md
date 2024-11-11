@@ -49,8 +49,8 @@ lru-cache-project/
 
 1. **Clone the Project**:
    ```bash
-   git clone https://github.com/username/lru-cache-project.git
-   cd lru-cache-project
+   git clone https://github.com/vitalvirtue/go-lru-cache.git
+   cd go-lru-cache
    ```
 
 2. **Install Dependencies**:
@@ -71,12 +71,12 @@ If you want to run the project in Docker, you can build an image and start it as
 
 1. **Build Docker Image**:
    ```bash
-   docker build -t lru-cache-project .
+   docker build -t go-lru-cache .
    ```
 
 2. **Start Docker Container**:
    ```bash
-   docker run --rm lru-cache-project
+   docker run --rm go-lru-cache
    ```
 
 ## 🧪 Testing
